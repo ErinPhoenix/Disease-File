@@ -1,0 +1,24 @@
+has_bubonic_plague = {
+	is_epidemic = yes
+	is_illness = yes
+	
+	diplomacy_penalty = -2
+	martial_penalty = -3
+	stewardship_penalty = -2
+	intrigue_penalty = -3
+	learning_penalty = -2
+	
+	health_penalty = -30
+	
+	fertility_penalty = -0.50
+	
+	combat_rating = -100 #old value: -10
+	
+	customizer = no
+
+	male_insult_adj = INSULT_DECAYING
+	female_insult_adj = INSULT_DECAYING
+	child_insult_adj = INSULT_SMELLY
+	
+	succession_gfx = yes
+}
